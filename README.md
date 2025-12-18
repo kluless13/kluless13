@@ -8,9 +8,9 @@
 └──────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=680&lines=Marine+Science+→+Code+→+Real-World+Systems;AI+·+Blockchains+·+Data+·+Automation;Build+things+that+actually+run." />
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ljMmR3Ym51N2Q3aTgxYjA4MTB1MjF2MWl0ZTYyanp0OTBkcGc5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BW51OCstarPBm/giphy.gif" width="100%" />
+</p>
 
 ---
 
