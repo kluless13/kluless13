@@ -1,4 +1,7 @@
-<div align="center">
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/kluless13/count.svg" alt="Visitor's Count" />
+</div>
 
 ```txt
 ┌──────────────────────────────────────────────┐
@@ -11,7 +14,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNoMmV1Nms4OTlmenB0b3cxZm9ocWdkaDAzeHlhb3owZ3Y0dnU0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%" />
 </p>
-</div>
 
 ## 🧑‍💻 `whoami`
 
@@ -44,6 +46,35 @@ Shell / Bash        █████░░░░░░░░░░░░░  auto
 SQL / PostgreSQL    ████████░░░░░░░░░░  data persistence
 Markdown            ███░░░░░░░░░░░░░░░  docs
 ```
+<!-- ================= FRONTEND / UI ================= -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,vue,nuxt,nextjs,vite,jquery" />
+</p>
+
+<!-- ============== BACKEND / APIs / DATABASES ============== -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,postgres,mysql,supabase,graphql,postman" />
+</p>
+
+<!-- ================= AI / DATA / RESEARCH ================= -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,anaconda,selenium,markdown" />
+</p>
+
+<!-- ================= BLOCKCHAIN / WEB3 ================= -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+<!-- ================= SYSTEMS / INFRA ================= -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,elixir,linux,docker,heroku,vercel,nix" />
+</p>
+
+<!-- ================= TOOLING / PRODUCTIVITY ================= -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,notion,obsidian,bash,bots,firebase" />
+</p>
 
 ---
 
