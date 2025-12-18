@@ -9,10 +9,9 @@
 ```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ljMmR3Ym51N2Q3aTgxYjA4MTB1MjF2MWl0ZTYyanp0OTBkcGc5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BW51OCstarPBm/giphy.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNoMmV1Nms4OTlmenB0b3cxZm9ocWdkaDAzeHlhb3owZ3Y0dnU0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%" />
 </p>
 </div>
----
 
 ## 🧑‍💻 `whoami`
 
