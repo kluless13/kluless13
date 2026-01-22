@@ -1,32 +1,6 @@
-```txt
-┌──────────────────────────────────────────────┐
-│ > boot --profile kluless13                   │
-│ > identity verified                          │
-│ > mode: CYBERPUNK / TERMINAL                 │
-└──────────────────────────────────────────────┘
-```
-
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNoMmV1Nms4OTlmenB0b3cxZm9ocWdkaDAzeHlhb3owZ3Y0dnU0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNoMmV1Nms4OTlmenB0b3cxZm9ocWdkaDAzeHlhb3owZ3Y0dnU0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="50%" />
 </p>
-
-## 🧑‍💻 `whoami`
-
-```bash
-$ whoami
-kluless
-
-$ role
-builder · researcher · systems engineer · operator · founder
-
-$ domains
-ai · computer-vision · blockchains · data-systems · automation
-
-$ mindset
-signal > noise
-reality > hype
-```
-## 🐍 My Contributions
 
 <div align="center">
   <picture>
@@ -35,11 +9,6 @@ reality > hype
     <img alt="github-snake" src="https://raw.githubusercontent.com/kluless13/kluless13/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<hr>
----
-
-## ⚙️ `languages --all --used`
 
 ```txt
 Python              ██████████████████░  primary
@@ -81,10 +50,6 @@ Markdown            ███░░░░░░░░░░░░░░░  docs
   <img src="https://skillicons.dev/icons?i=git,github,figma,notion,obsidian,bash,bots,firebase" />
 </p>
 
----
-
-## 🧠 `capabilities --expanded`
-
 ```txt
 Computer Vision          ████████████░░░░
 AI / Agentic Automation  ███████████░░░░░
@@ -96,49 +61,12 @@ Web Development          █████████░░░░░░░
 CLI / Automation         ██████████░░░░░░
 ```
 
----
-
-## 🧪 `projects --active`
-
-### 🐟 FishTally
-
-```txt
-[STATUS]  stable
-[STACK]   Python · YOLO · ByteTrack · OpenCV
-[DESC]    Real-time fish detection & tracking for ecology and aquaculture
-```
+FishTally (lightweight CLI tool to detect and count multiple species of fish automatically, deployable on edge devices like submarine drones/robots) - paper in preprint (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6019587 woo) 
 
 ▸ CLI-first workflow
 ▸ Zone-based counting (lines / polygons)
 ▸ Designed for noisy, real-world footage
 
----
-
-### 🌱 esgWIKI
-
-```txt
-[STATUS]  evolving
-[STACK]   Python · Pandas · PDFs · Excel · SQL
-[DESC]    ESG data extraction, normalization & analysis pipeline
-```
-
-▸ Automates sustainability reporting
-▸ Structured ESG metric parsing
-▸ Built for scale, not slide decks
-
----
-
-### 🌐 kluless.io
-
-```txt
-[STATUS]  live
-[STACK]   TypeScript · Web · APIs
-[DESC]    Personal playground for experiments, writing & tooling
-```
-
----
-
-## ⛓️ `blockchain`
 
 ```txt
 EVM / Smart Contracts   █████████░░░░░░░
@@ -150,10 +78,6 @@ Wallet / Infra Logic    ███████░░░░░░░░░
 ▸ Solidity & EVM-based development
 ▸ Contract → API → frontend integration
 ▸ Blockchain systems as *infrastructure*, not hype
-
----
-
-## 🤖 `ai --agentic`
 
 ```txt
 Agentic Workflows       ███████████░░░░░
@@ -168,8 +92,6 @@ Tool-using Agents       █████████░░░░░░░
 
 ---
 
-## 📊 `git stats`
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kluless13&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=9f9f9f" />
@@ -178,36 +100,3 @@ Tool-using Agents       █████████░░░░░░░
 
 </div>
 
----
-
-## 🔗 `connect`
-
-```bash
-$ open links
-```
-
-🌐 [https://kluless.io](https://kluless.io)
-🔗 [https://linktr.ee/kluless](https://linktr.ee/kluless)_
-
----
-
-## 🧬 `runtime loop`
-
-```python
-while alive:
-    observe()
-    model()
-    automate()
-    deploy()
-```
-
----
-
-<div align="center">
-
-```txt
-> system stable
-> future compiling…
-```
-
-</div>
