@@ -10,6 +10,11 @@
   </picture>
 </div>
 
+<div align="center">
+  <h3>Local Commit Activity</h3>
+  <img src="local-activity.svg" alt="Local commit heatmap" width="100%" />
+</div>
+
 ```txt
 Python              ██████████████████░  primary
 Jupyter Notebook    █████████████████░░  research / experimentation
