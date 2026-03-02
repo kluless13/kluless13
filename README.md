@@ -25,7 +25,7 @@ computer vision · agentic systems · prediction markets · on-chain infrastruct
 <br>
 
 <div align="center">
-  <img src="local-activity.svg" alt="Local commit activity" width="100%" />
+  <img src="https://1tx.dev/api/heatmap" alt="Local commit activity" width="100%" />
 </div>
 
 <br>
